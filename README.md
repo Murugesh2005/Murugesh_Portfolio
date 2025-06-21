@@ -1,0 +1,4 @@
+# Murugesh_Portfolio
+git remote add origin https://github.com/Murugesh2005/Murugesh_Portfolio.git
+git branch -M main
+git push -u origin main
